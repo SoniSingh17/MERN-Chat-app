@@ -195,7 +195,7 @@ frontend/
 Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/SoniSingh17/MERN-Chat-app.git
 ```
 
 Install dependencies
